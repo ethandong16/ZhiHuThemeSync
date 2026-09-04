@@ -55,7 +55,7 @@
 
 ## 开发与调试
 
-1. 修改 `/home/runner/work/ZhiHuThemeSync/ZhiHuThemeSync/userscript.js`。
+1. 修改仓库根目录下的 `userscript.js`。
 2. 在脚本管理器中重新加载脚本。
 3. 打开浏览器开发者工具查看日志输出和行为。
 
